@@ -52,7 +52,6 @@
   },
   "lint-staged": {
     "*.js": [
-      "eslint --format node_modules/eslint-friendly-formatter",
       "git add"
     ]
   },
